@@ -1,0 +1,6 @@
+ADF5355	KEYWORD1
+begin	KEYWORD2
+setFrequency	KEYWORD2
+getFrequency	KEYWORD2
+roundFrequency	KEYWORD2
+end	KEYWORD2
